@@ -12,6 +12,14 @@ Ce projet démontre une architecture hybride permettant aux vendeurs de travaill
 *   **Synchronisation Intelligente** : Envoi des commandes locales vers le serveur et mise à jour du stock en un clic.
 *   **Admin Panel Mobile** : Vue intégrée pour voir les commandes stockées localement.
 
+## 🎥 Démonstration Vidéo
+
+Voici un aperçu de l'application en action :
+
+[**▶️ Voir la vidéo de démonstration**](assets/demoapp.mov)
+
+_(Cliquez pour lancer la vidéo)_
+
 ## 🛠️ Stack Technique
 
 ### 📱 Mobile (Dossier `/mobile`)

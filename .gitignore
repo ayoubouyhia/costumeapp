@@ -1,0 +1,7 @@
+# Ignore everything
+/*
+
+# Unignore Costume Rental Project folders
+!/mobile/
+!/backend_full/
+!/.gitignore

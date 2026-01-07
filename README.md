@@ -16,9 +16,9 @@ Ce projet démontre une architecture hybride permettant aux vendeurs de travaill
 
 Voici un aperçu de l'application en action :
 
-[**▶️ Voir la vidéo de démonstration**](assets/demoapp.mov)
+[**▶️ CLIQUEZ ICI POUR VOIR LA VIDEO**](assets/demoapp.mov)
 
-_(Cliquez pour lancer la vidéo)_
+_(Le fichier se trouve dans `assets/demoapp.mov`)_
 
 ## 🛠️ Stack Technique
 
